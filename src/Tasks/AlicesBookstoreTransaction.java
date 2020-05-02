@@ -8,8 +8,17 @@ public class AlicesBookstoreTransaction {
 
     public static void main(String[] args) {
 
+    AlicesBookstore.soldKids(1); // call it with class name . name of the method
+    AlicesBookstore.soldNovels(2);
+    AlicesBookstore.soldComics(5);
 
-
+//    AlicesBookstore a = new AlicesBookstore(); // obj
+//        System.out.println(a.allBooks);
+//        a.allBooks -= 5;
+//        System.out.println(a.allBooks);
+//
+//        AlicesBookstore a2 = new AlicesBookstore();
+//        System.out.println(a2.allBooks);
 
     }
 

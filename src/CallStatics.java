@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class CallStatics {
 
     public static void main(String[] args) {

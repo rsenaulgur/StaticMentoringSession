@@ -12,10 +12,10 @@ public class Summary {
     // Static Keyword can be used for variables, methods, blocks, and nested classes
 
     // static variable:
-    static int num = 0;
+    public static int num = 0;
 
     // static method:
-    static String printInfo () {
+    public static String printInfo () {
         return "my counter is: " + num;
     }
 
